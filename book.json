@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "title": "The World History",
+      "author": "mark lee",
+      "category": "Fiction",
+      "price": 30.99,
+      "description": "Classic novel set in the American South during the 1930s.",
+      "cover_image": "1.PNG"
+    },
+    {
+      "id": 2,
+      "title": "World War",
+      "author": "  T.farrtz",
+      "category": "Dystopian",
+      "price": 19.99,
+      "description": "Classic dystopian novel about totalitarianism and surveillance.",
+      "cover_image": "2.PNG"
+    },
+    {
+      "id": 3,
+      "title": "Graet Wal",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic",
+      "price": 111,
+      "description": "A story of the Jazz Age and the American Dream.",
+      "cover_image": "3.PNG"
+    },
+    {
+      "id": 4,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "category": "Classic",
+      "price": 13.25,
+      "description": "Novel about the voyage of the whaling ship Pequod.",
+      "cover_image": "4.PNG"
+    },
+    {
+      "id": 5,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Science Fiction",
+      "price": 10.75,
+      "description": "A dystopian social science fiction novel.",
+      "cover_image": "5.PNG"
+    },
+    {
+      "id": 6,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Classic",
+      "price": 9.99,
+      "description": "Classic romantic novel of manners.",
+      "cover_image": "6.PNG"
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "price": 8.50,
+      "description": "Novel known for its themes of teenage angst and alienation.",
+      "cover_image": "7.PNG"
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 15.99,
+      "description": "High-fantasy novel series.",
+      "cover_image": "7.PNG"
+    },
+    {
+      "id": 9,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 11.75,
+      "description": "Prequel to The Lord of the Rings.",
+      "cover_image": "9.PNG"
+    },
+    {
+      "id": 10,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "category": "Mystery",
+      "price": 14.25,
+      "description": "Mystery thriller novel.",
+      "cover_image": "10.PNG"
+    },
+    {
+      "id": 11,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 10.50,
+      "description": "Philosophical novel.",
+      "cover_image": "11.PNG"
+    },
+    {
+      "id": 12,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "category": "Classic",
+      "price": 12.25,
+      "description": "Historical novel set during the French Revolution.",
+      "cover_image": "12.PNG"
+    },
+    {
+      "id": 13,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "category": "Historical Fiction",
+      "price": 16.99,
+      "description": "Epic novel set during the Napoleonic Wars.",
+      "cover_image": "13.PNG"
+    },
+    {
+      "id": 14,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "category": "Classic",
+      "price": 11.99,
+      "description": "Gothic and philosophical novel.",
+      "cover_image": "14.PNG"
+    },
+    {
+      "id": 15,
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "category": "Classic",
+      "price": 10.99,
+      "description": "Novel known for its social commentary.",
+      "cover_image": "16.PNG"
+    },
+    {
+      "id": 16,
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "category": "Classic",
+      "price": 9.50,
+      "description": "Autobiographical novel.",
+      "cover_image": "16.PNG"
+    },
+    {
+      "id": 17,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "category": "Dystopian",
+      "price": 13.75,
+      "description": "Post-apocalyptic novel.",
+      "cover_image": "17.PNG"
+    },
+    {
+      "id": 18,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "category": "Gothic",
+      "price": 11.25,
+      "description": "Gothic novel about science and creation.",
+      "cover_image": "19.PNG"
+    },
+    {
+      "id": 19,
+      "title": "The Stand",
+      "author": "Stephen King",
+      "category": "Horror",
+      "price": 14.50,
+      "description": "Post-apocalyptic horror/fantasy novel.",
+      "cover_image": "7.PNG"
+    },
+    {
+      "id": 20,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "category": "Classic",
+      "price": 12.50,
+      "description": "Psychological novel.",
+      "cover_image": "3.PNG"
+    },
+    {
+      "id": 21,
+      "author": "Victor Hugo",
+      "title": "Les Miserables",
+      "category": "Classic",
+      "price": 13.99,
+      "description": "Historical novel set in France.",
+      "cover_image": "7.PNG"
+    },
+    {
+      "id": 22,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "category": "Horror",
+      "price": 11.75,
+      "description": "Horror novel.",
+      "cover_image": "2.PNG"
+    },
+    {
+      "id": 23,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "category": "Classic",
+      "price": 10.25,
+      "description": "Ancient Greek epic poem.",
+      "cover_image": "11.PNG"
+    },
+    {
+      "id": 24,
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "category": "Philosophical",
+      "price": 12.25,
+      "description": "Existential novel.",
+      "cover_image": "13.PNG"
+    },
+    {
+      "id": 25,
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "category": "Historical Fiction",
+      "price": 13.50,
+      "description": "Historical novel set in the American South during the Civil War.",
+      "cover_image": "5.PNG"
+    },
+    {
+      "id": 26,
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "category": "Contemporary",
+      "price": 10.99,
+      "description": "Contemporary novel set in Afghanistan.",
+      "cover_image": "16.PNG"
+    },
+    {
+      "id": 27,
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "category": "Autobiographical",
+      "price": 11.50,
+      "description": "Autobiographical novel.",
+      "cover_image": "2.PNG"
+    },
+    {
+      "id": 28,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "category": "Adventure",
+      "price": 12.99,
+      "description": "Adventure novel.",
+      "cover_image": "8.PNG"
+    },
+    {
+      "id": 29,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "category": "Classic",
+      "price": 12.75,
+      "description": "Tragic novel.",
+      "cover_image": "9.PNG"
+    },
+    {
+      "id": 30,
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "category": "Classic",
+      "price": 11.99,
+      "description": "Novel set during the Great Depression.",
+      "cover_image": "3.PNG"
+    }
+  ]
